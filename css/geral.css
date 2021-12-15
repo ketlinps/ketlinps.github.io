@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background: #191919;
+  }
+
+  ul {
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+
+ .navegacao a{
+    color: white;
+    font-size: 18px;
+  }
+
+  .navegacao a:hover {
+    color: #A020F0;
+    font-size: 20px;
+    font-weight: bold;
+  }
+

@@ -1,0 +1,21 @@
+.titulo {
+    color: #A020F0;
+    margin-left: 2em;
+    padding-left: 0.4em;
+    padding-top: 2em;
+    padding-right: 25px;
+    text-align: left;
+    display: flex;
+    font-size: 3em;
+}
+
+.introducao {
+    color: white;
+    margin-left: 2em;
+    padding-left: 4em;
+    padding-right: 5em;
+    text-align: left;
+    display: flex;
+    font-size: 20px;
+    text-align: justify;
+}

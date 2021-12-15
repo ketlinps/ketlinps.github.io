@@ -1,0 +1,74 @@
+    
+        .nome{
+            width: 40em;
+            background: rgba(25, 25, 25);
+            color: white;
+            margin-left: 25em;
+            margin-top: 1em;
+        }
+
+        h2{
+            color: white;
+            margin-left: 1em;
+        }
+
+        .contato{
+            position: relative;
+            top: 10em;
+            left: 10em;
+            width: 30em;
+        }
+
+        .contato ul{
+            list-style: none;
+            color: white;
+            font-size: 25px;
+
+        }
+
+        .contato ul li a{
+            text-decoration: none;
+            color: #A020F0;
+        }
+
+        .sci{
+            display: grid;
+            grid-template-columns: 40px 40px 40px;
+            gap: 15px;
+            align-items: center;
+            margin-top: 2em;
+            margin-left: 2em;
+        }
+
+        .sci li a img{
+            color: white;
+        }
+
+        .form{
+            margin-top: -8em;
+            margin-left: 15em;
+        }
+
+        .formata-input{
+            background:  rgba(25, 25, 25);
+        }
+
+        .formata-input:hover{
+            background:  rgba(25, 25, 25);
+            
+        }
+
+        .enviar-mensagem{
+            margin-left: 39em;
+            width: 12em;
+            border-radius: 30px;
+            background: #A020F0;
+            color: white;
+        }
+
+        .enviar-mensagem:hover{
+            background: #7902c3;
+            border: #A020F0 ;
+            font-weight: bold;
+            color: white;
+        }
